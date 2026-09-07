@@ -5,13 +5,13 @@ about:
   head: b7850a2
   archived: false
   latestVersion: "v0.3.4"
-  collectedAt: 2026-09-07T06:12:33Z
+  collectedAt: 2026-09-07T18:31:07Z
 timeline:
   created: 2025-12-13
   lastCommit: 2026-09-04
   lastRelease: 2026-07-17
 popularity:
-  star: 182
+  star: 183
   watcher: 0
   fork: 33
   release: 7
@@ -83,7 +83,7 @@ total:
   commit: 143
 ---
 path: /home/runner/.x-repo/github.com/steipete/sonoscli
-collectedAt: 2026-09-07T06:12:35Z
+collectedAt: 2026-09-07T18:31:08Z
 loc:
   Go:
     code: 18825
@@ -129,7 +129,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:12:47+00:00
+  collectedAt: 2026-09-07T18:31:08+00:00
   platform:
     darwin/arm64:
       name:  sonoscli_0.3.4_darwin_arm64.tar.gz
