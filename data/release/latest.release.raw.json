@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4040667,
       "digest": "sha256:d37ffaafdba2a016c85477ee45173e6068b2bf1f7011531051f5649c6f83456e",
-      "download_count": 5808,
+      "download_count": 5810,
       "created_at": "2026-07-17T16:35:18Z",
       "updated_at": "2026-07-17T16:35:18Z",
       "browser_download_url": "https://github.com/steipete/sonoscli/releases/download/v0.3.4/sonoscli_0.3.4_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4304481,
       "digest": "sha256:181c52192ba8c411da81006a03f38291e113fb1251179f1d947ce3ccc8540432",
-      "download_count": 5906,
+      "download_count": 5912,
       "created_at": "2026-07-17T16:35:18Z",
       "updated_at": "2026-07-17T16:35:18Z",
       "browser_download_url": "https://github.com/steipete/sonoscli/releases/download/v0.3.4/sonoscli_0.3.4_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3902583,
       "digest": "sha256:eb578b169da75a9698e6fd9eb92daaad4376e5062e82b85075c255f74f7969ae",
-      "download_count": 5778,
+      "download_count": 5780,
       "created_at": "2026-07-17T16:35:18Z",
       "updated_at": "2026-07-17T16:35:18Z",
       "browser_download_url": "https://github.com/steipete/sonoscli/releases/download/v0.3.4/sonoscli_0.3.4_linux_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 8394523,
       "digest": "sha256:14188372024cdb5855514418862bee1efdd4f5716c2b6721e2b4018b415af83a",
-      "download_count": 260,
+      "download_count": 262,
       "created_at": "2026-07-17T16:35:18Z",
       "updated_at": "2026-07-17T16:35:19Z",
       "browser_download_url": "https://github.com/steipete/sonoscli/releases/download/v0.3.4/sonoscli_0.3.4_macos-universal.tar.gz"
