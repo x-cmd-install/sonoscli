@@ -7,7 +7,7 @@ Control SONOS speakers from your terminal.
 - **Latest release**: `v0.3.4` (2026-07-17)
 - **Last commit**: 2026-09-04
 - **License**: MIT
-- **Stars**: 183 · **Forks**: 33 · **Open issues**: 9 · **Contributors**: 7
+- **Stars**: 184 · **Forks**: 33 · **Open issues**: 9 · **Contributors**: 7
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/sonoscli> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T12:19:43Z._
+_Last regenerated: 2026-09-09T06:19:24Z._
