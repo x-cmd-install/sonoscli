@@ -1,0 +1,34 @@
+- repo: freebsd
+  srcname: misc/sonoscli
+  binname: sonoscli
+  visiblename: misc/sonoscli
+  version: 0.3.4
+  origversion: 0.3.4_3
+  status: newest
+  summary: Discover, group, and control Sonos speakers
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - misc
+- repo: nix_stable_26_05
+  srcname: sonoscli
+  visiblename: sonoscli
+  version: 0.1.0
+  origversion: null
+  status: outdated
+  summary: Control Sonos speakers from your terminal over LAN (UPnP/SOAP)
+  maintainers:
+    - j10ccc@github
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: sonoscli
+  visiblename: sonoscli
+  version: 0.3.4
+  origversion: null
+  status: newest
+  summary: Control Sonos speakers from your terminal over LAN (UPnP/SOAP)
+  maintainers:
+    - j10ccc@github
+  licenses:
+    - MIT
