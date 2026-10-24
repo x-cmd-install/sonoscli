@@ -14,11 +14,11 @@ x install sonoscli
 
 ## Code insight
 
-Total: **19,823** lines of code across **157** files in the top 5 languages.
+Total: **19,893** lines of code across **158** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 18,825 | 267 | 2,208 | 152 |
+| Go | 18,895 | 269 | 2,211 | 153 |
 | JavaScript | 918 | 7 | 38 | 2 |
 | Makefile | 34 | 0 | 10 | 1 |
 | Dockerfile | 24 | 1 | 3 | 1 |
@@ -32,41 +32,45 @@ Total: **19,823** lines of code across **157** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.3.4` (2026-07-17)
-- **Last commit**: 2026-09-04
-- **Assets in release**: 8
+- **Latest**: `v0.3.5` (2026-10-23)
+- **Last commit**: 2026-10-23
+- **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 187 · **Forks**: 34 · **Open issues**: 9 · **Contributors**: 7
+- **Stars**: 187 · **Forks**: 34 · **Open issues**: 9 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 15 · **Open PRs**: 1 · **Closed issues**: 9 · **Open issues**: 0 · **Commits**: 143
+- **Releases**: 8 · **Merged PRs**: 18 · **Open PRs**: 0 · **Closed issues**: 9 · **Open issues**: 0 · **Commits**: 146
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 90d | 2026-07-25 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last180d | 2026-04-26 | 6 | 14 | 1 | 3 | 0 | 45 |
-| 360d | 2025-10-28 | 7 | 15 | 1 | 9 | 0 | 142 |
-| last720d | 2024-11-02 | 7 | 15 | 1 | 9 | 0 | 143 |
+| 30d | 2026-09-24 | 1 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-25 | 1 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-26 | 1 | 4 | 0 | 0 | 0 | 4 |
+| last180d | 2026-04-27 | 7 | 17 | 0 | 3 | 0 | 48 |
+| 360d | 2025-10-29 | 8 | 18 | 0 | 9 | 0 | 145 |
+| last720d | 2024-11-03 | 8 | 18 | 0 | 9 | 0 | 146 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/steipete/sonoscli/releases/download/v0.3.4/checksums.txt) | 704 B | `other` |
-| [sonoscli_0.3.4_darwin_amd64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.4/sonoscli_0.3.4_darwin_amd64.tar.gz) | 4.2 MiB | `native/darwin/x64` |
-| [sonoscli_0.3.4_darwin_arm64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.4/sonoscli_0.3.4_darwin_arm64.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
-| [sonoscli_0.3.4_linux_amd64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.4/sonoscli_0.3.4_linux_amd64.tar.gz) | 4.1 MiB | `native/linux/x64` |
-| [sonoscli_0.3.4_linux_arm64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.4/sonoscli_0.3.4_linux_arm64.tar.gz) | 3.7 MiB | `native/linux/arm64` |
-| [sonoscli_0.3.4_macos-universal.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.4/sonoscli_0.3.4_macos-universal.tar.gz) | 8.0 MiB | `native/darwin/x64` |
-| [sonoscli_0.3.4_windows_amd64.zip](https://github.com/steipete/sonoscli/releases/download/v0.3.4/sonoscli_0.3.4_windows_amd64.zip) | 4.2 MiB | `native/win/x64` |
-| [sonoscli_0.3.4_windows_arm64.zip](https://github.com/steipete/sonoscli/releases/download/v0.3.4/sonoscli_0.3.4_windows_arm64.zip) | 3.8 MiB | `native/win/arm64` |
+| [ASSET-INVENTORY.json](https://github.com/steipete/sonoscli/releases/download/v0.3.5/ASSET-INVENTORY.json) | 2.0 KiB | `other` |
+| [RELEASE-NOTES.md](https://github.com/steipete/sonoscli/releases/download/v0.3.5/RELEASE-NOTES.md) | 861 B | `other` |
+| [SHA256SUMS](https://github.com/steipete/sonoscli/releases/download/v0.3.5/SHA256SUMS) | 1.0 KiB | `other` |
+| [SIGNING-MANIFEST.json](https://github.com/steipete/sonoscli/releases/download/v0.3.5/SIGNING-MANIFEST.json) | 2.3 KiB | `other` |
+| [sonoscli_0.3.5_darwin_amd64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_darwin_amd64.tar.gz) | 4.4 MiB | `native/darwin/x64` |
+| [sonoscli_0.3.5_darwin_arm64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_darwin_arm64.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
+| [sonoscli_0.3.5_linux_amd64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_linux_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
+| [sonoscli_0.3.5_linux_arm64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_linux_arm64.tar.gz) | 3.8 MiB | `native/linux/arm64` |
+| [sonoscli_0.3.5_macos-universal.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_macos-universal.tar.gz) | 8.4 MiB | `native/darwin/x64` |
+| [sonoscli_0.3.5_universal_darwin_all.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_universal_darwin_all.tar.gz) | 8.4 MiB | `native/darwin/x64` |
+| [sonoscli_0.3.5_windows_amd64.zip](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_windows_amd64.zip) | 4.4 MiB | `native/win/x64` |
+| [sonoscli_0.3.5_windows_arm64.zip](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_windows_arm64.zip) | 3.9 MiB | `native/win/arm64` |
 
 ## Distribution status
 
@@ -85,4 +89,4 @@ Install metadata for sonoscli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T06:07:25Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:53:51Z._
