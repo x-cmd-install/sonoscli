@@ -2,9 +2,9 @@
   srcname: misc/sonoscli
   binname: sonoscli
   visiblename: misc/sonoscli
-  version: 0.3.4
-  origversion: 0.3.4_5
-  status: outdated
+  version: 0.3.5
+  origversion: null
+  status: newest
   summary: Discover, group, and control Sonos speakers
   maintainers:
     - yuri@freebsd.org
