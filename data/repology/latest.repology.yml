@@ -3,7 +3,7 @@
   binname: sonoscli
   visiblename: misc/sonoscli
   version: 0.3.5
-  origversion: null
+  origversion: 0.3.5_1
   status: newest
   summary: Discover, group, and control Sonos speakers
   maintainers:
