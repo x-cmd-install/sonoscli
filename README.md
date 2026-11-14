@@ -14,11 +14,11 @@ x install sonoscli
 
 ## Code insight
 
-Total: **19,893** lines of code across **158** files in the top 5 languages.
+Total: **20,210** lines of code across **158** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 18,895 | 269 | 2,211 | 153 |
+| Go | 19,212 | 269 | 2,233 | 153 |
 | JavaScript | 918 | 7 | 38 | 2 |
 | Makefile | 34 | 0 | 10 | 1 |
 | Dockerfile | 24 | 1 | 3 | 1 |
@@ -33,27 +33,27 @@ Total: **19,893** lines of code across **158** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.5` (2026-10-23)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-11-14
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 191 · **Forks**: 35 · **Open issues**: 9 · **Contributors**: 8
+- **Stars**: 191 · **Forks**: 35 · **Open issues**: 9 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 18 · **Open PRs**: 3 · **Closed issues**: 9 · **Open issues**: 0 · **Commits**: 146
+- **Releases**: 8 · **Merged PRs**: 19 · **Open PRs**: 0 · **Closed issues**: 9 · **Open issues**: 0 · **Commits**: 147
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 3 | 3 | 0 | 0 | 3 |
-| last60d | 2026-09-14 | 1 | 3 | 3 | 0 | 0 | 3 |
-| 90d | 2026-08-15 | 1 | 4 | 3 | 0 | 0 | 4 |
-| last180d | 2026-05-17 | 4 | 13 | 3 | 2 | 0 | 24 |
-| 360d | 2025-11-18 | 8 | 18 | 3 | 9 | 0 | 145 |
-| last720d | 2024-11-23 | 8 | 18 | 3 | 9 | 0 | 146 |
+| 30d | 2026-10-15 | 1 | 4 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-15 | 1 | 4 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-16 | 1 | 5 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-18 | 4 | 14 | 0 | 2 | 0 | 0 |
+| 360d | 2025-11-19 | 8 | 19 | 0 | 9 | 0 | 0 |
+| last720d | 2024-11-24 | 8 | 19 | 0 | 9 | 0 | 147 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for sonoscli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:32:00Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:25:15Z._
