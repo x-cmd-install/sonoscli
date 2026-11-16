@@ -32,8 +32,8 @@ x install sonoscli
 
 ## 发布
 
-- **最新版本**: `v0.3.5` (2026-10-23)
-- **最近提交**: 2026-11-14
+- **最新版本**: `v0.3.6` (2026-11-16)
+- **最近提交**: 2026-11-16
 - **Release 含资产**: 12 个
 
 ## 流行度
@@ -42,35 +42,35 @@ x install sonoscli
 
 ## 累计统计
 
-- **发布数**: 8 · **已合并 PR**: 19 · **开放 PR**: 0 · **已关闭 issue**: 9 · **开放 issue**: 0 · **提交数**: 147
+- **发布数**: 9 · **已合并 PR**: 20 · **开放 PR**: 0 · **已关闭 issue**: 9 · **开放 issue**: 0 · **提交数**: 148
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 4 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-16 | 1 | 4 | 0 | 0 | 0 | 4 |
-| 90d | 2026-08-17 | 1 | 5 | 0 | 0 | 0 | 5 |
-| last180d | 2026-05-19 | 4 | 14 | 0 | 2 | 0 | 25 |
-| 360d | 2025-11-20 | 8 | 19 | 0 | 9 | 0 | 146 |
-| last720d | 2024-11-25 | 8 | 19 | 0 | 9 | 0 | 147 |
+| 30d | 2026-10-17 | 2 | 5 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-17 | 2 | 5 | 0 | 0 | 0 | 5 |
+| 90d | 2026-08-18 | 2 | 6 | 0 | 0 | 0 | 6 |
+| last180d | 2026-05-20 | 5 | 15 | 0 | 2 | 0 | 26 |
+| 360d | 2025-11-21 | 9 | 20 | 0 | 9 | 0 | 147 |
+| last720d | 2024-11-26 | 9 | 20 | 0 | 9 | 0 | 148 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [ASSET-INVENTORY.json](https://github.com/steipete/sonoscli/releases/download/v0.3.5/ASSET-INVENTORY.json) | 2.0 KiB | `other` |
-| [RELEASE-NOTES.md](https://github.com/steipete/sonoscli/releases/download/v0.3.5/RELEASE-NOTES.md) | 861 B | `other` |
-| [SHA256SUMS](https://github.com/steipete/sonoscli/releases/download/v0.3.5/SHA256SUMS) | 1.0 KiB | `other` |
-| [SIGNING-MANIFEST.json](https://github.com/steipete/sonoscli/releases/download/v0.3.5/SIGNING-MANIFEST.json) | 2.3 KiB | `other` |
-| [sonoscli_0.3.5_darwin_amd64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_darwin_amd64.tar.gz) | 4.4 MiB | `native/darwin/x64` |
-| [sonoscli_0.3.5_darwin_arm64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_darwin_arm64.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
-| [sonoscli_0.3.5_linux_amd64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_linux_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
-| [sonoscli_0.3.5_linux_arm64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_linux_arm64.tar.gz) | 3.8 MiB | `native/linux/arm64` |
-| [sonoscli_0.3.5_macos-universal.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_macos-universal.tar.gz) | 8.4 MiB | `native/darwin/x64` |
-| [sonoscli_0.3.5_universal_darwin_all.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_universal_darwin_all.tar.gz) | 8.4 MiB | `native/darwin/x64` |
-| [sonoscli_0.3.5_windows_amd64.zip](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_windows_amd64.zip) | 4.4 MiB | `native/win/x64` |
-| [sonoscli_0.3.5_windows_arm64.zip](https://github.com/steipete/sonoscli/releases/download/v0.3.5/sonoscli_0.3.5_windows_arm64.zip) | 3.9 MiB | `native/win/arm64` |
+| [ASSET-INVENTORY.json](https://github.com/steipete/sonoscli/releases/download/v0.3.6/ASSET-INVENTORY.json) | 2.0 KiB | `other` |
+| [RELEASE-NOTES.md](https://github.com/steipete/sonoscli/releases/download/v0.3.6/RELEASE-NOTES.md) | 683 B | `other` |
+| [SHA256SUMS](https://github.com/steipete/sonoscli/releases/download/v0.3.6/SHA256SUMS) | 1.0 KiB | `other` |
+| [SIGNING-MANIFEST.json](https://github.com/steipete/sonoscli/releases/download/v0.3.6/SIGNING-MANIFEST.json) | 2.3 KiB | `other` |
+| [sonoscli_0.3.6_darwin_amd64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.6/sonoscli_0.3.6_darwin_amd64.tar.gz) | 4.5 MiB | `native/darwin/x64` |
+| [sonoscli_0.3.6_darwin_arm64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.6/sonoscli_0.3.6_darwin_arm64.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
+| [sonoscli_0.3.6_linux_amd64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.6/sonoscli_0.3.6_linux_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
+| [sonoscli_0.3.6_linux_arm64.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.6/sonoscli_0.3.6_linux_arm64.tar.gz) | 3.8 MiB | `native/linux/arm64` |
+| [sonoscli_0.3.6_macos-universal.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.6/sonoscli_0.3.6_macos-universal.tar.gz) | 8.4 MiB | `native/darwin/x64` |
+| [sonoscli_0.3.6_universal_darwin_all.tar.gz](https://github.com/steipete/sonoscli/releases/download/v0.3.6/sonoscli_0.3.6_universal_darwin_all.tar.gz) | 8.4 MiB | `native/darwin/x64` |
+| [sonoscli_0.3.6_windows_amd64.zip](https://github.com/steipete/sonoscli/releases/download/v0.3.6/sonoscli_0.3.6_windows_amd64.zip) | 4.4 MiB | `native/win/x64` |
+| [sonoscli_0.3.6_windows_arm64.zip](https://github.com/steipete/sonoscli/releases/download/v0.3.6/sonoscli_0.3.6_windows_arm64.zip) | 3.9 MiB | `native/win/arm64` |
 
 ## 发行版状态
 
@@ -89,4 +89,4 @@ sonoscli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T08:18:17Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T09:03:36Z._
