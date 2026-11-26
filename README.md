@@ -38,7 +38,7 @@ Total: **20,210** lines of code across **158** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 194 · **Forks**: 33 · **Open issues**: 9 · **Contributors**: 9
+- **Stars**: 194 · **Forks**: 34 · **Open issues**: 9 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **20,210** lines of code across **158** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-26 | 2 | 5 | 0 | 0 | 0 | 5 |
-| 90d | 2026-08-27 | 2 | 6 | 0 | 0 | 0 | 6 |
-| last180d | 2026-05-29 | 5 | 15 | 0 | 2 | 0 | 24 |
-| 360d | 2025-11-30 | 9 | 20 | 0 | 9 | 0 | 147 |
-| last720d | 2024-12-05 | 9 | 20 | 0 | 9 | 0 | 148 |
+| 30d | 2026-10-27 | 1 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-27 | 2 | 5 | 0 | 0 | 0 | 5 |
+| 90d | 2026-08-28 | 2 | 6 | 0 | 0 | 0 | 6 |
+| last180d | 2026-05-30 | 5 | 15 | 0 | 2 | 0 | 24 |
+| 360d | 2025-12-01 | 9 | 20 | 0 | 9 | 0 | 147 |
+| last720d | 2024-12-06 | 9 | 20 | 0 | 9 | 0 | 148 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for sonoscli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:33:26Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:20:36Z._
